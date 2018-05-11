@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" width="4px" height="4px" preserveAspectRatio="none">
+  <polygon opacity=".18" fill="#fff" points="4,0 0,0 0,4"/>
+  <polygon fill="none" points="4,0 4,4 0,4"/>
+</svg>
